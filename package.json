@@ -1,0 +1,27 @@
+{
+  "name": "teamproject",
+  "version": "1.0.0",
+  "description": "Please read this instruction to run this project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beulathamban/teamProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beulathamban/teamProject/issues"
+  },
+  "homepage": "https://github.com/beulathamban/teamProject#readme",
+  "devDependencies": {
+    "grunt": "^1.0.4"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.0.6",
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1"
+  }
+}
